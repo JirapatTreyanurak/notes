@@ -1,5 +1,10 @@
 # Notes
 
+## Japanese
+
+## Typing
+[Furigana](https://en.wikipedia.org/wiki/Furigana)
+
 ## Philosophy
 
 ### Clustering-inspired decision making on thresholds
