@@ -12,7 +12,14 @@ Consider when we make arbitrary decisions on certain thresholds, e.g. bad/neutra
 Generalise the methods used in [determining the number of clusters](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set) to tackle these issues. And indeed, user experience may be one of the factor.
 
 ### On the infiniteness of multiverse
-The assumption that a given conceivable event will occur in some multiverse does not follow from there being infinitely many multiverses. As a simple example to show that this implication does not hold in general, consider the interval `[0,1]` which contains infinitely many real numbers, but does not contain every real numbers.
+The assumption that a given conceivable event will occur in some multiverse does not follow from there being infinitely many multiverses. As a simple example to show that this implication does not hold in general, consider the interval `[0,1]`. Although this interval contains infinitely many real numbers, it does not contain every real numbers.
 
 ### Existence of a feasible set
 When doing conceptual analysis, consider establishing the existence of a feasible set. It is non-trivial whether such a set exist even if we may be casually talking about the concept.
+
+## Programming
+
+### Web Development
+ * [P1xt's comprehensive web development guide](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md)
+ * [Google Developers Training's web development courses](https://developers.google.com/training/web/)
+ * [SE's pre-release technical notes](https://softwareengineering.stackexchange.com/q/46716/291954)
