@@ -17,6 +17,10 @@ The assumption that a given conceivable event will occur in some multiverse does
 ### Existence of a feasible set
 When doing conceptual analysis, consider establishing the existence of a feasible set. It is non-trivial whether such a set exist even if we may be casually talking about the concept.
 
+### Level of Concerns
+Some may be concerned with things immediately around themselves; nearby people, and nearby events, both in the nearby time. Some may be concerned with things that are about one's nation. Some, the world and humankind. Some, our place in the universe.  
+There is an inherent hierarchy, but to consider it an order of superiority is to take another epistemic step that one should be careful of.
+
 ## Programming
 
 ### Web Development
