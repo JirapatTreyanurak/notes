@@ -26,6 +26,9 @@ Attributing unfavourable events to unfavourable external situations or circumsta
 
 ### Argumentative Composure
 
+### Intension Repositioning
+When one ascribes to a behaviour in the past an intension different from what it originally was.
+
 ## Programming
 
 ### Web Development
