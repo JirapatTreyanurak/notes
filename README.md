@@ -21,6 +21,11 @@ When doing conceptual analysis, consider establishing the existence of a feasibl
 Some may be concerned with things immediately around themselves; nearby people, and nearby events, both in the nearby time. Some may be concerned with things that are about one's nation. Some, the world and humankind. Some, our place in the universe.  
 There is an inherent hierarchy, but to consider it an order of superiority is to take another epistemic step that one should be careful of.
 
+### Attributions and Delegations
+Attributing unfavourable events to unfavourable external situations or circumstances. Attributing favourable events to favourable internal traits or behaviours. Although the latter is fine in a sense that one can reinforce said behaviours, the former is left unchecked and the event probably repeated. Attributing events to fate is one such example. On the active end, attribution becomes delegation, and the external equivalent is to delegate one's action to hope.
+
+### Argumentative Composure
+
 ## Programming
 
 ### Web Development
