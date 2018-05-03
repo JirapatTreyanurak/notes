@@ -37,3 +37,6 @@ When one ascribes to a behaviour in the past an intension different from what it
  * [P1xt's comprehensive web development guide](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md)
  * [Google Developers Training's web development courses](https://developers.google.com/training/web/)
  * [SE's pre-release technical notes](https://softwareengineering.stackexchange.com/q/46716/291954)
+
+## Miscellaneous
+ * Blog posts on Frihost [(Web Archive)](https://web.archive.org/web/20160305110303/http://www.frihost.com:80/users/Sylin/blog/vc-2025.html)
