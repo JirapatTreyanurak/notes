@@ -24,6 +24,9 @@ There is an inherent hierarchy, but to consider it an order of superiority is to
 ### Attributions and Delegations
 Attributing unfavourable events to unfavourable external situations or circumstances. Attributing favourable events to favourable internal traits or behaviours. Although the latter is fine in a sense that one can reinforce said behaviours, the former is left unchecked and the event probably repeated. Attributing events to fate is one such example. On the active end, attribution becomes delegation, and the external equivalent is to delegate one's action to hope.
 
+### Constant Alternative
+When comparing alternatives, the current option is often omitted when at times it can be relevant. 
+
 ### Argumentative Composure
 One is argumentatively composed when one's argumentation is abstracted away from the delivery of the arguments. The delivery of an argument concerns who and how the argument is being presented; the feelings, desires, intentions, etc. accompanying the agent that is presenting the argument. Such things have no play in the validity of an argument (self-referential exceptions apply) and should therefore be *irrelevant* in a proper argumentation (whether or not they should be *present* is another question altogether; composure and argumentative composure are mutually exclusive).  
 To demonstrate, one (composed or otherwise) wouldn't be *argumentatively composed* if one were to dismiss the argument sorely on the reason that the presenter is currently tempered (or sleepy, too happy, possesses records of bad arguments, not argumentatively composed, etc.). 
