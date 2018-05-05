@@ -1,5 +1,14 @@
 # Notes
 
+## To Self
+The triple A:  
+ - **Appreciation**  
+ To appreciate what you have and don't have. This enables you to do or not do things you may want or not want to do.
+ - **Aspiration**  
+ To aspire to be the best you can be no matter how big or small. This keeps you motivated and pushes you to progress.
+ - **Attribution**  
+ To attribute the goods and the bads on yourself to yourself. This allows you to change, to improve the goods and to lessen the bads.
+
 ## Japanese
 
 ## Typing
