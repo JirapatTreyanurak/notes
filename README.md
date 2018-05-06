@@ -11,8 +11,8 @@ The triple A:
  
 A place where rules and regulations are respected and followed.  
 A place where people try their best regardless of their work instead of trying to exploit every opportunity they get.
-A place where I can expect discipline instead of disorder.
-A place where I can learn the aforementioned practices to better myself as a human.
+A place where I can expect discipline instead of disorder.  
+A place where I can learn the aforementioned practices to better myself as a human.  
 Language and immigration is a small price to pay to put myself in such a place.
 
 ## Japanese
