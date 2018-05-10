@@ -13,7 +13,7 @@ A place where rules and regulations are respected and followed.
 A place where people try their best regardless of their work instead of trying to exploit every opportunity they get.  
 A place where I can expect discipline instead of disorder.  
 A place where I can learn the aforementioned practices to better myself as a human.  
-The cost of language and immigration pale in comparison to the condition of living in such a place.
+The cost of language and immigration is small in comparison to the condition of living in such a place.
 
 ## Japanese
 
@@ -39,7 +39,7 @@ There is an inherent hierarchy, but to consider it an order of superiority is to
 ### Attributions and Delegations
 Attributing unfavourable events to unfavourable external situations or circumstances. Attributing favourable events to favourable internal traits or behaviours. Although the latter is fine in a sense that one can reinforce said behaviours, the former is left unchecked and the event probably repeated. Attributing events to fate is one such example. On the active end, attribution becomes delegation, and the external equivalent is to delegate one's action to hope.
 
-### Constant Alternative
+### Null Alternative
 When comparing alternatives, the current option is often omitted when at times it can be relevant. 
 
 ### Argumentative Composure
