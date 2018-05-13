@@ -49,6 +49,12 @@ To demonstrate, one (composed or otherwise) wouldn't be *argumentatively compose
 ### Intension Repositioning
 When one ascribes to a behaviour in the past an intension different from what it originally was.
 
+### Prophecy and Eventuality
+Any prophecy could've been forgotten. Any prophecy could last centuries. The point in time in which an arbitrary tale unfolds may or may not correspond to a told prophecy, but this is not to be confused with the prophetic value of said prophecy, especially if its "ripe time" wasn't specified.
+
+### Duality and Perceived Duality
+Consider perceived duality (such as good and evil, light and dark, right and wrong) and not physical duality (such as forces). Genarally, there is nothing that guarantee such perceived dualities. A good but poor person finally fortunates and some may say that it was "deserved". A good but poor person ends in nothing but a same poor end and some may say "how unfortunate". Such utterances are quite meaningless (how so?). In the same vein, hard work does not neccessitate result. What it is is a fine causal line between the correct intermediary that brings about the result and the many events of hard works that happens to precede it.
+
 ## Programming
 
 ### Web Development
