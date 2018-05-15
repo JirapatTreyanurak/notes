@@ -55,6 +55,9 @@ Any prophecy could've been forgotten. Any prophecy could last centuries. The poi
 ### Duality and Perceived Duality
 Consider perceived duality (such as good and evil, light and dark, right and wrong) and not physical duality (such as forces). Genarally, there is nothing that guarantee such perceived dualities. A good but poor person finally fortunates and some may say that it was "deserved". A good but poor person ends in nothing but a same poor end and some may say "how unfortunate". Such utterances are quite meaningless (how so?). In the same vein, hard work does not neccessitate result. What it is is a fine causal line between the correct intermediary that brings about the result and the many events of hard works that happens to precede it.
 
+### Fail-fast as a Way of Life
+In computer science, fail-fast is the idea that any (potential or point of) failures is handled as early as possible. This practice can be applied to real life to great effects. Predicting the outcome and preparing for the worst, identifying bottlenecks and taking pre-emptive actions before they become a problem, these are just a few examples of applications of fail-fast.
+
 ## Programming
 
 ### Web Development
